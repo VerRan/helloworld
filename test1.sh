@@ -12,3 +12,6 @@ time.sleep(3)
 
 GPIO.output(17, GPIO.LOW)
 GPIO.cleanup()
+
+
+https://docs.aws.amazon.com/zh_cn/iot/latest/developerguide/iot-plant-watering.html
